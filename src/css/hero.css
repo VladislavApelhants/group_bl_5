@@ -1,0 +1,11 @@
+.hero {
+  background-color: crimson;
+  padding: 100px 0;
+  background-image: url('/img/vite-logo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero-text {
+  font-size: 36px;
+}
